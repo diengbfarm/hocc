@@ -2,7 +2,7 @@
 #include <time.h>
 #include <conio.h>
 int n;
-
+//test nha hihi
 void  tinhtuoi(int n)
 {time_t s, val = 1;
 struct tm* current_time;
